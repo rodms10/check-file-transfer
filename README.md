@@ -1,4 +1,6 @@
 check-file-transfer
 ===================
 
-Random tests for cordova file-transfer plugin.
+Test app for cordova file-transfer plugin.
+
+Needs file and file-transfer plugins.
